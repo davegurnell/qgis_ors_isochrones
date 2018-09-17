@@ -1,0 +1,16 @@
+[general]
+name=Isochrones
+qgisMinimumVersion=3.0
+description=Generates isochrones using openrouteservice.org
+about=Generates isochrones using openrouteservice.org
+version=1.0.0
+tracker=https://github.com/davegurnell/qgis_ors_isochrones
+repository=https://github.com/davegurnell/qgis_ors_isochrones
+homepage=https://github.com/davegurnell/qgis_ors_isochrones
+tags=python
+category=Vector
+icon=icon.png
+experimental=True
+deprecated=False
+author=Dave Gurnell
+email=dave@cartographer.io
